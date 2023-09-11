@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import csv
 
 # List of URLs to visit
-urls = ["example.com/link1"]
+urls = ["example.com/link1, example.com/link2"]
 
 
 # Function to extract the "About" field and full HTML contents from a single webpage
